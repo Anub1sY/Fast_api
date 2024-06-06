@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9cfdeba-fb82-41bb-abce-6fa99f56525e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab12/anime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab12/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab6/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab6/lab6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab6/lab6style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab7/console_info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab7/event_handlers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab7/function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab7/lab7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab7/lab7style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab7/picture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web/Web_css/lab8/objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/Line_count.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/Line_count.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/iris34_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/iris34_test_error.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/iris34_train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/lab2/experiment_planning/planA.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Sad/lab2/experiment_planning/planA.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/lab2/experiment_planning/planC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataBase/Sad/lab2/experiment_planning/planC.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataBase/Sad/sad.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/.idea/Web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/.idea/Web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab2 first css/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab2 first css/lab2css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab2 first css/lab2examplestyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab2 first css/lab2style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab2 first css/leks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab3/lab3css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab3/lab3style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab4/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab4/lab4css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web css/lab4/lab4style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web/Web html/LICENSE.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hRQM0mk9Uz7MZMSxKAc0x2ycmE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WorkFiles/FastAPI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9cfdeba-fb82-41bb-abce-6fa99f56525e" name="Changes" comment="" />
+      <created>1717554358360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717554358360</updated>
+      <workItem from="1717554362849" duration="649000" />
+      <workItem from="1717555231160" duration="84000" />
+      <workItem from="1717555908977" duration="2117000" />
+      <workItem from="1717558056427" duration="1295000" />
+      <workItem from="1717559542498" duration="6476000" />
+      <workItem from="1717566922944" duration="741000" />
+      <workItem from="1717624423121" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab5_py$main.coverage" NAME="main Coverage Results" MODIFIED="1717567539979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab11" />
+  </component>
+</project>
